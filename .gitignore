@@ -1,0 +1,11 @@
+*.*~
+*.ps
+paper.pdf
+*.eps
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.pdf
